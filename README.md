@@ -19,7 +19,12 @@ Here are some ideas to get you started:
 <div align="center">
   <h2>Languajes and tools</h2>
 
+<details open>
+  <summary>Frontend</summary>
+</details>
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
 
 
 

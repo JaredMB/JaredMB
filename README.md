@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Languajes and tools -->
+<div>
+  <h2 align="center">Languajes and tools</h2>
+</div>

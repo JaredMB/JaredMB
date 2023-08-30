@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 <details>
   <summary open>Backend</summary>
+</details>
 
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-</details>
 
 <details>
   <summary open>Software and Tools</summary>

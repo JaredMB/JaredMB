@@ -44,6 +44,3 @@ Here are some ideas to get you started:
 ![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
 </div>
-
-![NPM](https://github.com/JaredMB)&nbsp;
-

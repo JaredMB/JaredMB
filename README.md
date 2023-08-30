@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
 </div>
 
-![NPM](https://github.com/JaredMB);
+![NPM](https://github.com/JaredMB)&nbsp;
 

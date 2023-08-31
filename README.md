@@ -7,7 +7,7 @@
 
 
 <!-- Web illustrations by Storyset (https://storyset.com/web)-->
-<img src="">
+<img src="https://github.com/JaredMB/JaredMB/blob/main/Assets/Programming.gif">
 
 <!--
 **JaredMB/JaredMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

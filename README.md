@@ -5,6 +5,9 @@
   quality projects. I am constantly learning and experimenting new technologies and frameworks to find the best solution to the problems that arise.
 </p>
 
+
+<a href="https://storyset.com/web">Web illustrations by Storyset</a>
+<script type='text/javascript'>document.addEventListener('DOMContentLoaded', function () {window.setTimeout(document.querySelector('svg').classList.add('animated'),1000);})</script>
 <!--
 **JaredMB/JaredMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

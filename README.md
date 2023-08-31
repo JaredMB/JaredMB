@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  I'm a computer systems engineer with a passion for front-end web development. My goal is to become a full stack developer
+  
+</p>
+
 <!--
 **JaredMB/JaredMB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -44,3 +49,5 @@ Here are some ideas to get you started:
 ![Microsoft Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
 
 </div>
+
+

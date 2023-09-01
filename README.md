@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+<br>
+<br>
 
 <!-- Languajes and tools -->
 <div align="center">

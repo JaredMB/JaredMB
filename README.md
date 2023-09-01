@@ -5,6 +5,7 @@
   quality projects. I am constantly learning and experimenting new technologies and frameworks to find the best solution to the problems that arise.
 </p>
 
+<br>
 
 <!-- Web illustrations by Storyset (https://storyset.com/web)-->
 <img align="right" src="https://github.com/JaredMB/JaredMB/blob/main/Assets/developer.svg" width="300">

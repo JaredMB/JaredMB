@@ -1,3 +1,5 @@
+<img src="https://github.com/JaredMB/JaredMB/blob/main/Assets/Fondo.png">
+
 ### Hi there 👋
 
 <p align="center">
